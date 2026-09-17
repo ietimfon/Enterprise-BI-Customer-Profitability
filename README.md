@@ -2,7 +2,7 @@
 
 > A hybrid cloud Business Intelligence architecture that integrates on-premises banking systems with cloud CRM data to deliver executive-level customer profitability insights.
 
-![BI Banner](assets-cover.png)
+![BI Banner](assets-cover.PNG)
 
 ![Project](https://img.shields.io/badge/Project-Enterprise%20Business%20Intelligence-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge)
