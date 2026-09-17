@@ -171,7 +171,7 @@ Enterprise governance includes:
 
 # Enterprise BI Architecture
 
-![Hybrid Cloud Architecture](architecture/enterprise-bi-architecture.png)
+![Hybrid Cloud Architecture](architecture-enterprise-bi-architecture.PNG)
 
 ## Architecture Overview
 
@@ -227,7 +227,7 @@ SYSTEM                │
 
 # Data Integration Strategy
 
-![Data Pipeline](architecture/customer-profitability-dataflow.png)
+![Data Pipeline](customer-profitability-dataflow.PNG)
 
 ## ETL Pipeline
 
@@ -274,7 +274,7 @@ Power BI semantic models expose trusted metrics for reporting.
 
 # Customer Profitability Data Model
 
-![Star Schema](architecture/star-schema-model.png)
+![Star Schema](star-schema-model.PNG)
 
 ## Star Schema Design
 
@@ -312,7 +312,7 @@ Power BI semantic models expose trusted metrics for reporting.
 
 # Executive Dashboard Design
 
-![Dashboard Preview](dashboard/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.PNG)
 
 ## Dashboard Pages
 
@@ -443,7 +443,7 @@ Predict customers likely to leave.
 
 ### Objective
 
-Recommend relevant banking products based on customer behavior.
+Recommend relevant banking products based on customer behaviour.
 
 | Existing Product | Recommended Product |
 |------------------|---------------------|
@@ -526,7 +526,7 @@ Compare profitability across branches and regions.
 
 # Quality Assurance Plan
 
-![QA Framework](architecture/qa-framework.png)
+![QA Framework](qa-framework.PNG)
 
 A comprehensive quality assurance framework ensures reliable, trusted, and secure analytics.
 
