@@ -2,8 +2,6 @@
 
 > A hybrid cloud Business Intelligence architecture that integrates on-premises banking systems with cloud CRM data to deliver executive-level customer profitability insights.
 
-![BI Banner](assets-cover.PNG)
-
 ![Project](https://img.shields.io/badge/Project-Enterprise%20Business%20Intelligence-blue?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-Analytics-blue?style=for-the-badge)
@@ -119,7 +117,7 @@ The desired Business Intelligence platform provides:
 
 The solution follows a layered Enterprise Business Intelligence architecture.
 
-![Architecture](architecture/enterprise-bi-architecture.png)
+![Architecture](enterprise-bi-architecture.PNG)
 
 ## 1. Unified Data Integration
 
